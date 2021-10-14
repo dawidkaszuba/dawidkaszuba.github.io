@@ -1,3 +1,5 @@
+# Site settings
+title: Dawid Kaszuba
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dawidkaszuba.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -8,6 +10,6 @@ user_description: For several years I have been interested in the IT world, in p
 user_title: Software Engineer
 email: d.kaszuba89@gmail.com
 # twitter_username: lorem_ipsum
- github_username:  dawidkaszuba
+github_username:  dawidkaszuba
 
 exclude: ['package.json', 'src' , 'node_modules']
